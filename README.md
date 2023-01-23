@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 0x11. C - printf team project
 
 Group Project:                                                                      
@@ -61,3 +62,7 @@ Handle the following custom conversion specifier:
 15. *                                                                               
 All the above options work well together.
 
+=======
+Readme
+Updated
+>>>>>>> 4ff80401e44b80b4f9eb4ceac31ca246600264dd
