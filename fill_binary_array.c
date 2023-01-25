@@ -9,7 +9,7 @@
  * Return: number of chars printed.
  */
 
-char *fill_binary_array(char *binary, long int int_in, int isneg, int limit)
+ *fill_binary_array(char *binary, long int int_in, int isneg, int limit)
 {
 	int i;
 
